@@ -1,1 +1,3 @@
-"# Custom API using by RESTful API" 
+Custom API using by RESTful API
+
+Using postman to test API
